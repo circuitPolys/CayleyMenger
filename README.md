@@ -14,14 +14,14 @@ A tutorial on how to import the poylnomials is presented in the ImportPolynomial
 
 Circuit polynomials in the database (filename - corresponding sparsity circuit):
 
-k4.wdx - complete graph on 4 vertices
+<b>k4.wdx</b> - complete graph on 4 vertices
 
-wheel4.wdx - wheel on 4 vertices
+<b>wheel4.wdx</b> - wheel on 4 vertices
   
-doubleBanana2D.wdx - the two-dimensional "double banana"
+<b>doubleBanana2D.wdx</b> - the two-dimensional "double banana"
 
-wheel5.wdx - wheel on 5 vertices
+<b>wheel5.wdx</b> - wheel on 5 vertices
 
-desarguesPlusOne - the "Desargues" graph (a.k.a the Doublet, a.k.a. Prism or 3-Prism) together with an additional edge
+<b>desarguesPlusOne.wdx</b> - the "Desargues" graph (a.k.a the Doublet, a.k.a. Prism or 3-Prism) together with an additional edge
 
-k33PlusOne - the complete bipartite graph K(3,3) (a.k.a. the Utility graph, a.k.a the Thomsen graph) together with an additional edge
+<b>k33PlusOne.wdx</b> - the complete bipartite graph K(3,3) (a.k.a. the Utility graph, a.k.a the Thomsen graph) together with an additional edge
