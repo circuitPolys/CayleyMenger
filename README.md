@@ -12,11 +12,19 @@ A tutorial on how to import the poylnomials is presented in the ImportPolynomial
 
 ---
 
-Circuit polynomials in the database (filename - corresponding sparsity circuit):
+<h1>Circuit polynomials in the database</h1>
+
+A filename is followed by a description of the corresponding sparsity circuit
+
+<h2>4 vertices</h2>
 
 <b>k4.wdx</b> - complete graph on 4 vertices
 
+<h2>5 vertices</h2>
+
 <b>wheel4.wdx</b> - wheel on 4 vertices
+
+<h2>6 vertices</h2>
   
 <b>doubleBanana2D.wdx</b> - the two-dimensional "double banana"
 
@@ -25,3 +33,10 @@ Circuit polynomials in the database (filename - corresponding sparsity circuit):
 <b>desarguesPlusOne.wdx</b> - the "Desargues" graph (a.k.a the Doublet, a.k.a. Prism or 3-Prism) together with an additional edge
 
 <b>k33PlusOne.wdx</b> - the complete bipartite graph K(3,3) (a.k.a. the Utility graph, a.k.a the Thomsen graph) together with an additional edge
+
+<h2>7 vertices</h2>
+
+<b>filename.wdx</b> - double banana + H2 on "outer" edge
+
+<b>filename.wdx</b> - double banana + H2 on "inner" edge
+
