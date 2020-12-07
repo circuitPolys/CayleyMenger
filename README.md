@@ -36,7 +36,6 @@ A filename is followed by a description of the corresponding sparsity circuit
 
 <h2>7 vertices</h2>
 
-<b>filename.wdx</b> - double banana + H2 on "outer" edge
+<b>dB+k4-16.wdx</b> - direct sum of doubleBanana2D and K4 on the vertices {1,5,6,7} with the edge 16 eliminated
 
-<b>filename.wdx</b> - double banana + H2 on "inner" edge
-
+<b>dB+k4-56.wdx</b> - direct sum of doubleBanana2D and K4 on the vertices {4,5,6,7} with the edge 56 eliminated
