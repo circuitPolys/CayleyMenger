@@ -5,7 +5,7 @@ Requires: Wolfram Mathematica
 
 Platform: any that supports Mathematica
 
-Description: This repository contains a database of circuit polynomials in Cayley-Menger ideals, i.e. the minimal dependencies in the algebraic matroids of Cayley-Manger ideals. At prestent the database contains, up to relabeling, all circuit polynomials on 4, 5 and 6 vertices, as well as some circuit polynomials on 7 vertices.
+Description: This repository contains a database of circuit polynomials in Cayley-Menger ideals, i.e. the minimal dependencies in the algebraic matroids of Cayley-Manger ideals. At prestent the database contains, up to relabeling, all circuit polynomials on 4, 5 and 6 vertices, as well as some circuit polynomials on 7 vertices and some on 8 vertices.
 
 The polynomials are saved in Mathematica's compressed .wdx format and have to be indivitually imported into a notebook.
 A tutorial on how to import the poylnomials is presented in the ImportPolynomialTutorial.nb notebook.
@@ -39,3 +39,9 @@ A filename is followed by a description of the corresponding sparsity circuit
 <b>dB+k4-16.wdx</b> - direct sum of doubleBanana2D and K4 on the vertices {1,5,6,7} with the edge 16 eliminated
 
 <b>dB+k4-56.wdx</b> - direct sum of doubleBanana2D and K4 on the vertices {4,5,6,7} with the edge 56 eliminated
+
+<h2>8 vertices</h2>
+
+<b>dB+k4-56--8v.wdx</b> - direct sum of doubleBanana2D and K4 on the vertices {5,6,7,8} with the edge 56 eliminated
+
+<b>dB+k4-45.wdx</b> - direct sum of doubleBanana2D and K4 on the vertices {4,5,7,8} with the edge 45 eliminated
