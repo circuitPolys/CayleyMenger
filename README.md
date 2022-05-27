@@ -10,6 +10,8 @@ Description: This repository contains a database of circuit polynomials in Cayle
 The polynomials are saved in Mathematica's compressed .wdx format and have to be indivitually imported into a notebook.
 A tutorial on how to import the poylnomials is presented in the ImportPolynomialTutorial.nb notebook.
 
+The notebook combinatorialResultant.nb contains some basic functions for working in the Cayley-Menger ideal, as well as a tutorial on computing the Desargues-plus-one circuit.
+
 ---
 
 <h1>Circuit polynomials in the database</h1>
